@@ -5,7 +5,7 @@ This repository contains the scripts and data used to evaluate EUAT.
 
 ##  Train directory
 
-**The directory `train`  contains the scripts and information to deploy the training of models.**
+**This directory contains the scripts and information to deploy the training of models.**
 
 To train the models, you can directly run the `python3 train.py` specifying the correct arguments:
 ```
