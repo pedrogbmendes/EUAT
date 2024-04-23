@@ -37,8 +37,8 @@ When performing adversarial training (AT), you need to consider the following ar
 ```
 
 The benchmarks should be in a directory called `../data`.
-After training, the models are save in "../models/" directory and the logs files are saved in "logs/".
-If the models exist in "../models/" when start training, then it should exist the corresponding log file in "../logs1/" and the model and the logs will be loaded.
+After training, the models are save in `../models/` directory and the logs files are saved in `logs/`.
+If the models exist in `../models/` when start training, then it should exist the corresponding log file in `../logs1/` and the model and the logs will be loaded.
 You can easily change these directories.
 
 To parallelize and automatize the deployment and speed up the training, you can also run `python3 run.py`. In this file, you can directly specify all the arguments to run the train.py file, and the script will deploy in a sequential (1 worker) or parallel way (several workers) the training process.
