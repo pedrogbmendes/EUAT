@@ -49,3 +49,5 @@ Do not forget to install pytorch, torchensemble, and netcal.
 
 This work was supported by the Fundação para a Ciência e a Tecnologia (Portuguese Foundation for Science and Technology) through the Carnegie Mellon Portugal Program under grant SFRH/BD/151470/2021, and by projects UIDB/50021/2020,  C645008882-00000055.PRR and C628696807-00454142 (Center for Responsible AI), 101189689 (ACHILLES).
 This work was developed within the scope of the project no. 62 - "Responsible A", financed by European Funds, namely "Recovery and Resilience Plan - Component 5: Agendas Mobilizadoras para a Inovação Empresarial", included in the NextGenerationEU funding program.
+
+![Alt text](images/example.png)
