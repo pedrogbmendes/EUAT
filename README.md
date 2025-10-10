@@ -43,3 +43,9 @@ You can easily change these directories.
 
 To parallelize and automatize the deployment and speed up the training, you can also run `python3 run.py`. In this file, you can directly specify all the arguments to run the train.py file, and the script will deploy in a sequential (1 worker) or parallel way (several workers) the training process.
 Do not forget to install pytorch, torchensemble, and netcal.
+
+
+## Acknowledgments
+
+This work was supported by the Fundação para a Ciência e a Tecnologia (Portuguese Foundation for Science and Technology) through the Carnegie Mellon Portugal Program under grant SFRH/BD/151470/2021, and by projects UIDB/50021/2020,  C645008882-00000055.PRR and C628696807-00454142 (Center for Responsible AI), 101189689 (ACHILLES).
+This work was developed within the scope of the project no. 62 - ``Responsible A'', financed by European Funds, namely "Recovery and Resilience Plan - Component 5: Agendas Mobilizadoras para a Inovação Empresarial", included in the NextGenerationEU funding program.
